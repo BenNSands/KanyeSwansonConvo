@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hwD3tVczhVLtI9ra5UbNChLWof3ZtfvRgJZiOCsykwGTHCCskFpJH6eLDJHTBGe8mwYGcYlpbeTIDP8/Ip39eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrpok\\Documents\\repos\\KanyeWestAPI\\KanyeWestAPI\\KanyeWestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrpok\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
